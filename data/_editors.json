@@ -21,7 +21,12 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Setharius",
+        "link": "https://www.youtube.com/@sethariustelos4896"
     }
 ]

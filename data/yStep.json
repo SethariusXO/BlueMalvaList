@@ -8,5 +8,11 @@
     "percentToQualify": "82",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Setharius",
+            "link": "https://www.youtube.com/watch?v=9WtF1i3uEGg&ab_channel=SethariusTelos",
+            "percent": 100,
+            "hz": 120
+        },
     ]
 }

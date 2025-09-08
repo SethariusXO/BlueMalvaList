@@ -1,0 +1,18 @@
+{
+    "id": 127,
+    "name": "Illusion Temple",
+    "author": "TheIllusionCube",
+    "creators": ["TheIllusionCube"],
+    "verifier": "TheIllusionCube",
+    "verification": "https://www.youtube.com/watch?v=mTK-UFWy0qw&ab_channel=TheIllusionCube",
+    "percentToQualify": "83",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Setharius",
+            "link": "https://www.youtube.com/watch?v=4dV9u9S5Bm0&ab_channel=SethariusTelos",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

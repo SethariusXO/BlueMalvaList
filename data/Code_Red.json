@@ -8,6 +8,12 @@
     "percentToQualify": 55,
     "password": "Free to Copy",
         "records": [
+         {
+                "user": "Yoink",
+                "link": "https://www.youtube.com/watch?v=ip_oh14ezE4",
+                "percent": 100,
+                "hz": 240
+         }
         {
             "user": "Setharius",
             "link": "https://www.youtube.com/watch?v=ffz1RcNpHlw",

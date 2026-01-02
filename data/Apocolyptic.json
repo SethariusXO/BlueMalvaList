@@ -1,0 +1,24 @@
+{
+    "id": 105,
+    "name": "Apocolyptic",
+    "author": "Myrixen",
+    "creators": ["Myrixen"],
+    "verifier": "Myrixen",
+    "verification": "https://www.youtube.com/watch?v=bwykS36TWRc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Victor",
+            "link": "https://www.youtube.com/watch?v=bwykS36TWRc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Robsvault",
+            "link": "https://www.youtube.com/watch?v=po6JxJde54Y",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

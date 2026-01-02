@@ -7,13 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=3x4suOHpLnE",
     "percentToQualify": 55,
     "password": "Free to Copy",
-        "records": [
+    "records": [
          {
                 "user": "Yoink",
                 "link": "https://www.youtube.com/watch?v=ip_oh14ezE4",
                 "percent": 100,
                 "hz": 240
-         }
+         },
         {
             "user": "Setharius",
             "link": "https://www.youtube.com/watch?v=ffz1RcNpHlw",

@@ -1,0 +1,18 @@
+{
+    "id": 102,
+    "name": "Cycles First Coin",
+    "author": "Victor",
+    "creators": ["Victor"],
+    "verifier": "Victor",
+    "verification": "https://www.youtube.com/watch?v=IsFkwwW03ro",
+    "percentToQualify": "89",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "Robsvault",
+            "link": "https://www.youtube.com/watch?v=IsFkwwW03ro",
+            "percent": 100,
+            "hz": 120
+       }
+    ]
+}

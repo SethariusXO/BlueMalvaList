@@ -1,13 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "Setharius",
+        "name": "Setharius (Robsvault)",
         "link": "https://www.youtube.com/@sethariustelos4896"
-    },
-    {
-        "role": "owner",
-        "name": "Biggitykot",
-        "link": "https://www.youtube.com/@Blue_Malva"
     },
     {
         "role": "admin",
@@ -31,7 +26,7 @@
     },
     {
         "role": "dev",
-        "name": "Setharius",
+        "name": "Setharius (Robsvault)",
         "link": "https://www.youtube.com/@sethariustelos4896"
     }
 ]

@@ -98,30 +98,30 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>List Rules</h3>
                     <p>
-                        Achieved the record without using hacks like noclip, speedhack or any kind of bot
+                        using hacks like noclip, speedhack or any kind of bot are prohibited
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Every level must be easy demon or harder to be placed on the demon list
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Make sure to have clicks/taps in the video. Edited audio does not count
                     </p>
                     <p>
-                        The recording must have the previous attempt shown before the completion, unless the completion is on the first attempt.
+                        The recording must have the previous attempt shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the player hit the endwall, or the completion will be invalidated
                     </p>
                     <p>
-                        The recording must be uploaded to youtube
+                        When submitting a record make sure to fill in every required box and the last one if conditions are met
                     </p>
                     <p>
-                        Only demon levels from the colagdps are ranked on here, besides joke rates
+                        Unrated levels only get placed upon a vote after being verified
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Records must be done on the colaGDPS version
                     </p>
                 </div>
             </div>

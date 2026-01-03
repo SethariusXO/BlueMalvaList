@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=ffz1RcNpHlw",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DavidShaft",
+            "link": "https://youtu.be/Tq8O2UQbRbU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

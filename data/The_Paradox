@@ -1,0 +1,18 @@
+{
+    "id": 148,
+    "name": "The Paradox",
+    "author": "Krypton",
+    "creators": ["Krypton"],
+    "verifier": "Krypton",
+    "verification": "https://www.youtube.com/watch?v=AqFkl74QTks",
+    "percentToQualify": "80",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Setharius",
+            "link": "https://www.youtube.com/watch?v=Do63zN9sOn0",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

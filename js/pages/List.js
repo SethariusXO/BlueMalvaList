@@ -115,7 +115,7 @@ export default {
                         The recording must also show the player hit the endwall, or the completion will be invalidated
                     </p>
                     <p>
-                        When submitting a record make sure to fill in every required box and the last one if conditions are met
+                        Swag routes in completions do NOT count for list points.
                     </p>
                     <p>
                         Unrated levels only get placed upon a vote after being verified

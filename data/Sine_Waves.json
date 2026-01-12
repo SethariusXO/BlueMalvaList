@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Free to Copy",
         "records": [
+            {
+                "user": "Robsvault",
+                "link": "https://www.youtube.com/watch?v=r0iz0IbGqNo",
+                "percent": 100,
+                "hz": 120
+            }
     ]
 }

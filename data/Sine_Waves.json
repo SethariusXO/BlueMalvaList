@@ -9,6 +9,12 @@
     "password": "Free to Copy",
         "records": [
             {
+                "user": "Davidshaft",
+                "link": "https://www.youtube.com/watch?v=4lCtzEKy0lA",
+                "percent": 100,
+                "hz": 240
+            },
+            {
                 "user": "Robsvault",
                 "link": "https://www.youtube.com/watch?v=r0iz0IbGqNo",
                 "percent": 100,

@@ -1,32 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "Owner (Robsvault)",
+        "name": "Robsvault (Owner)",
         "link": "https://www.youtube.com/@sethariustelos4896"
     },
         {
         "role": "owner",
-        "name": "GDPS Owner (victor)",
+        "name": "victor (GDPS Owner)",
         "link": "https://www.youtube.com/@vico-p8v"
     },
     {
         "role": "helper",
-        "name": "List Helper (Yoink)",
+        "name": "Yoink (List Helper)",
         "link": "https://www.youtube.com/@yYoinkGD"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "role": "dev",
+        "name": "Prometheus (Developer)",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "Developer",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "Developer (Robsvault)",
+        "name": "Robsvault (Developer)",
         "link": "https://www.youtube.com/@sethariustelos4896"
     }
 ]

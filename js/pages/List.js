@@ -98,6 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <p class="type-label-md">The <a href="https://tsl.pages.dev/" target="_blank">List Rules</a></p>
                     <h3>List Rules</h3>
                     <p>
                         using hacks like noclip, speedhack or any kind of bot are prohibited

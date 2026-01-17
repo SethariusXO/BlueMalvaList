@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <p class="type-label-md"><a href="https://tsl.pages.dev/" target="_blank">List Rules</a></p>
+                    <h3 class="type-label-md"><a href="https://1drv.ms/w/c/b19b33f01ec2ee80/IQCkuBLLosSCQrfft3LSOAlIAfgDw8V2CGvZyMtJjBzWxHA?e=QGaUcf" target="_blank">Demon List Rules</a></h3>
                     </p>
                 </div>
             </div>

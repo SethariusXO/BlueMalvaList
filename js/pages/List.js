@@ -98,7 +98,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <p class="type-label-md">The <a href="https://tsl.pages.dev/" target="_blank">List Rules</a></p>
+                    <p class="type-label-md"><a href="https://tsl.pages.dev/" target="_blank">List Rules</a></p>
                     </p>
                 </div>
             </div>

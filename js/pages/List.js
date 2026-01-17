@@ -98,7 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3 class="type-label-md"><a href="https://1drv.ms/w/c/b19b33f01ec2ee80/IQCkuBLLosSCQrfft3LSOAlIAfgDw8V2CGvZyMtJjBzWxHA?e=QGaUcf" target="_blank">Demon List Rules</a></h3>
+                    <h3>class="type-label-md"><a href="https://1drv.ms/w/c/b19b33f01ec2ee80/IQCkuBLLosSCQrfft3LSOAlIAfgDw8V2CGvZyMtJjBzWxHA?e=QGaUcf" target="_blank">Demon List Rules</a></h3>
+                    <p>
+                        Click "Demon List Rules" to open the google doc
                     </p>
                 </div>
             </div>

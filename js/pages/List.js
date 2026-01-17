@@ -99,30 +99,6 @@ export default {
                         </ol>
                     </template>
                     <p class="type-label-md">The <a href="https://tsl.pages.dev/" target="_blank">List Rules</a></p>
-                    <h3>List Rules</h3>
-                    <p>
-                        using hacks like noclip, speedhack or any kind of bot are prohibited
-                    </p>
-                    <p>
-                        Every level must be easy demon or harder to be placed on the demon list
-                    </p>
-                    <p>
-                        Make sure to have clicks/taps in the video. Edited audio does not count
-                    </p>
-                    <p>
-                        The recording must have the previous attempt shown before the completion, unless the completion is on the first attempt
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated
-                    </p>
-                    <p>
-                        Swag routes in completions do NOT count for list points.
-                    </p>
-                    <p>
-                        Unrated levels only get placed upon a vote after being verified
-                    </p>
-                    <p>
-                        Records must be done on the colaGDPS version
                     </p>
                 </div>
             </div>

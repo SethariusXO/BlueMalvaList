@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "victor",
+            "link": "https://www.youtube.com/watch?v=hS9GNs-zbx0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

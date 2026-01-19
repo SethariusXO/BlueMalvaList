@@ -1,9 +1,9 @@
 {
     "id": 104,
     "name": "Code Red",
-    "author": "Victor",
-    "creators": ["Victor"],
-    "verifier": "Victor",
+    "author": "victor",
+    "creators": ["victor"],
+    "verifier": "victor",
     "verification": "https://www.youtube.com/watch?v=3x4suOHpLnE",
     "percentToQualify": 75,
     "password": "Free to Copy",

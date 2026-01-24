@@ -1,0 +1,18 @@
+{
+    "id": 194,
+    "name": "Colabasic",
+    "author": "Dagameron",
+    "creators": ["Dagameron"],
+    "verifier": "Dagameron",
+    "verification": "https://www.youtube.com/watch?v=3lZzX-Mpc1c",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Robsvault",
+            "link": "https://www.youtube.com/watch?v=m7iRfZvq8Oc",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

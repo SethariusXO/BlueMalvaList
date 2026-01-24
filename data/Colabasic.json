@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=m7iRfZvq8Oc",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "IceOweni",
+            "link": "https://www.youtube.com/watch?v=Eb5r7D3lhV0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

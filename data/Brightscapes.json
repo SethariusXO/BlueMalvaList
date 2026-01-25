@@ -8,5 +8,11 @@
     "percentToQualify": "64",
     "coins": "0",
     "records": [
+        {
+                "user": "TheronDaGreat",
+                "link": "https://youtu.be/GFIGyu4QdX8",
+                "percent": 100,
+                "hz": 240
+         }
     ]
 }

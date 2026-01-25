@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "coins": "0",
     "records": [
+        {
+            "user": "Robsvault",
+            "link": "https://www.youtube.com/watch?v=6KD21q1OkUI",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

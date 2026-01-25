@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">coins</div>
-                            <p>{{ level.password || '0' }}</p>
+                            <p>{{ level.coins}}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>

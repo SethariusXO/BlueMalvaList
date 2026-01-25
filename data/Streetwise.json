@@ -1,0 +1,18 @@
+{
+    "id": 193,
+    "name": "Streetwise",
+    "author": "Krypton",
+    "creators": ["Krypton"],
+    "verifier": "Krypton",
+    "verification": "https://www.youtube.com/watch?v=5jWEBY7eBt4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ErrorWinters",
+            "link": "https://www.youtube.com/watch?v=PmrsoL92_S4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

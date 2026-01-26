@@ -99,6 +99,8 @@ export default {
                         </ol>
                     </template>
                     <h3><a href="https://1drv.ms/w/c/b19b33f01ec2ee80/IQCkuBLLosSCQrfft3LSOAlIAfgDw8V2CGvZyMtJjBzWxHA?e=QGaUcf" target="_blank">Demon List Rules</a></h3>
+                    text-decoration: underline;
+                    color: var(--color-on-link);
                     <p>
                         Click "Demon List Rules" to open the google doc
                     </p>

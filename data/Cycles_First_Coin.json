@@ -32,6 +32,12 @@
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
                 "hz": 240
-            }
+            },
+        {
+            "user": "Krypton",
+            "link": "https://www.youtube.com/watch?v=KFjQ5Bwpc8I",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }

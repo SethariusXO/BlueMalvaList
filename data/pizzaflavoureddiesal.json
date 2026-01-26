@@ -1,0 +1,18 @@
+{
+    "id": 230,
+    "name": "pizzaflavoureddiesal",
+    "author": "TheronDaGreat",
+    "creators": ["TheronDaGreat"],
+    "verifier": "TheronDaGreat",
+    "verification": "https://www.youtube.com/watch?v=gdD_PR_cOr8",
+    "percentToQualify": "53",
+    "coins": "0",
+    "records": [
+        {
+            "user": "Robsvault",
+            "link": "https://www.youtube.com/watch?v=xG1bZPw20i4",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

@@ -48,7 +48,7 @@
 }
 .page-leaderboard .board .user button {
     background-color: var(--color-background);
-    color: var(--color-on-background);
+    color: var(--color-on-link);
     border: none;
     border-radius: 0.5rem;
     padding: 1rem;

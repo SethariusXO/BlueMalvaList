@@ -30,12 +30,12 @@ export default {
                             <td class="rank">
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
-                            <td class="total">
-                                <p class="type-label-lg">{{ localize(ientry.total) }} Points</p>
-                            </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
                                     <span class="type-label-lg">{{ ientry.user }}</span>
+                            </td>
+                            <td class="total">
+                                <p class="type-label-lg">{{ localize(ientry.total) }} Points</p>
                                 </button>
                             </td>
                         </tr>

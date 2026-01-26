@@ -125,4 +125,5 @@
 }
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
+    color: var(--color-on-error);
 }

@@ -35,7 +35,7 @@ export default {
                                     <p class="type-label-lg">{{ ientry.user }}</p>
                             </td>
                             <td class="total">
-                                <span class="type-label-lg">{{ localize(ientry.total) }} Points</span>
+                                <p class="type-label-lg">{{ localize(ientry.total) }} Points</p>
                                 </button>
                             </td>
                         </tr>

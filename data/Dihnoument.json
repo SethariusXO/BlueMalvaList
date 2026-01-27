@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Krypton",
+            "link": "https://youtu.be/uIwX6K6Tiuo",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }

@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "coins": "0",
     "records": [
+        {
+            "user": "IceOweni",
+            "link": "https://www.youtube.com/watch?v=6hoDopqCT4c",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }

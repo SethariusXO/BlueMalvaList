@@ -12,20 +12,20 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=m7iRfZvq8Oc",
             "percent": 100,
-            "hz": 120
+            "cc": 3
         },
         {
             "user": "IceOweni 60",
             "link": "https://www.youtube.com/watch?v=Eb5r7D3lhV0",
             "percent": 100,
-            "hz": 60,
+            "cc": 0,
             "mobile": true
         },
         {
                 "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/XJzwO6uT5KA",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
          }
     ]
 }

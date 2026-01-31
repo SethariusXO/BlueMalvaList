@@ -32,7 +32,7 @@ export default {
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <p class="type-label-lg">  {{ ientry.user }}</p>
+                                    <p class="type-label-lg">  {{ ientry.user }} hz</p>
                             </td>
                             <td class="total">
                                 <p class="type-label-lg">{{ localize(ientry.total) }} Points</p>
@@ -43,7 +43,7 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
+                        <h1>#{{ selected + 1 }} {{ entry.user }} hz</h1>
                         <h3>{{ entry.total }} Points</h3>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">

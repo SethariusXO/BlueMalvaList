@@ -32,7 +32,7 @@ export default {
                             </td>
                             <td class="user" :class="{ 'active': selected == i }">
                                 <button @click="selected = i">
-                                    <p class="type-label-lg">  {{ ientry.user }} hz</p>
+                                    <p class="type-label-lg">  {{ ientry.user }}hz</p>
                             </td>
                             <td class="total">
                                 <p class="type-label-lg">{{ localize(ientry.total) }} Points</p>

@@ -28,7 +28,7 @@ export default {
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
-                    <span>{{ verifier }}</span>
+                    <span>{{ verifier }}hz</span>
                 </p>
             </template>
             <template v-else>
@@ -41,7 +41,7 @@ export default {
                 </p>
                 <div class="type-title-sm">Verifier</div>
                 <p class="type-body">
-                    <span>{{ verifier }}</span>
+                    <span>{{ verifier }}hz</span>
                 </p>
             </template>
             <div class="type-title-sm">Publisher</div>

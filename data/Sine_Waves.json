@@ -12,19 +12,19 @@
                 "user": "Davidshaft 240",
                 "link": "https://www.youtube.com/watch?v=4lCtzEKy0lA",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
             },
             {
                 "user": "Robsvault 120",
                 "link": "https://www.youtube.com/watch?v=r0iz0IbGqNo",
                 "percent": 100,
-                "hz": 120
+                "cc": 0
             },
             {
                 "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
             }
     ]
 }

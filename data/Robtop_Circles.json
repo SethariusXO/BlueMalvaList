@@ -3,32 +3,32 @@
     "name": "Robtop Circles",
     "author": "Robsvault",
     "creators": ["Robsvault"],
-    "verifier": "Robsvault",
+    "verifier": "Robsvault 120",
     "verification": "https://www.youtube.com/watch?v=Gk7kEI-27Pw",
     "percentToQualify": "100",
     "coins": "3",
     "records": [
         {
-            "user": "DavidShaft",
+            "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=gTgCuLr9LvE",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "IceOweni",
+            "user": "IceOweni 60",
             "link": "https://www.youtube.com/watch?v=oHfk8WYXEpo",
             "percent": 100,
             "hz": 60,
             "mobile": true
         },
         {
-            "user": "victor",
+            "user": "victor 240",
             "link": "https://www.youtube.com/watch?v=hS9GNs-zbx0",
             "percent": 100,
             "hz": 240
         },
             {
-                "user": "TheronDaGreat",
+                "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
                 "hz": 240

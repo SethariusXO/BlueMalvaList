@@ -12,13 +12,13 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=-d9IREv64dY",
             "percent": 100,
-            "hz": 120
+            "cc": 0
         },
         {
             "user": "Krypton 75",
             "link": "https://youtu.be/U23Svkq3yZw",
             "percent": 100,
-            "hz": 75
+            "cc": 0
         }
     ]
 }

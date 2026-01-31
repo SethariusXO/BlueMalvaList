@@ -12,19 +12,19 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=Qks8zdcJgCQ",
             "percent": 100,
-            "hz": 120
+            "cc": 0
             },
             {
              "user": "victor 240",
              "link": "https://www.youtube.com/watch?v=bi-wPs433eI&feature=youtu.be",
             "percent": 100,
-            "hz": 240
+            "cc": 0
             },
             {
                 "user": "TheronDaGreat 240",
                 "link": "https://www.youtube.com/watch?v=N_DpIDavehs",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
             }
     ]
 }

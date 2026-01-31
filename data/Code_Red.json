@@ -12,25 +12,25 @@
                 "user": "Yoink 240",
                 "link": "https://www.youtube.com/watch?v=ip_oh14ezE4",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
          },
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=ffz1RcNpHlw",
             "percent": 100,
-            "hz": 120
+            "cc": 0
         },
         {
             "user": "DavidShaft 240",
             "link": "https://youtu.be/Tq8O2UQbRbU",
             "percent": 100,
-            "hz": 240
+            "cc": 0
         },
             {
                 "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
             }
     ]
 }

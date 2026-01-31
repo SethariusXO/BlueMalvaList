@@ -12,26 +12,26 @@
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=B469eng_8AA",
             "percent": 100,
-            "hz": 120
+            "cc": 0
         },
         {
             "user": "IceOweni 60",
             "link": "https://youtu.be/qcBUz5MsTto?si=VjFS5nsnAlq6zXI-",
             "percent": 100,
-            "hz": 120,
+            "cc": 0,
             "mobile": true
         },
         {
             "user": "Krypton 75",
             "link": "https://youtu.be/uIwX6K6Tiuo",
             "percent": 100,
-            "hz": 75
+            "cc": 0
         },
         {
             "user": "Krya12 60",
             "link": "https://youtu.be/u03fNxN1MSE?si=29u7SMIKxp5eeOsF",
             "percent": 100,
-            "hz": 60
+            "cc": 0
         }
     ]
 }

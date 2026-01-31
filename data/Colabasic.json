@@ -3,26 +3,26 @@
     "name": "Colabasic",
     "author": "Dagameron",
     "creators": ["Dagameron"],
-    "verifier": "Dagameron",
+    "verifier": "Dagameron 60",
     "verification": "https://www.youtube.com/watch?v=3lZzX-Mpc1c",
     "percentToQualify": "100",
     "coins": "3",
     "records": [
         {
-            "user": "Robsvault",
+            "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=m7iRfZvq8Oc",
             "percent": 100,
             "hz": 120
         },
         {
-            "user": "IceOweni",
+            "user": "IceOweni 60",
             "link": "https://www.youtube.com/watch?v=Eb5r7D3lhV0",
             "percent": 100,
             "hz": 60,
             "mobile": true
         },
         {
-                "user": "TheronDaGreat",
+                "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/XJzwO6uT5KA",
                 "percent": 100,
                 "hz": 240

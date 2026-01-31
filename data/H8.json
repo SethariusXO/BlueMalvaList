@@ -3,13 +3,13 @@
     "name": "H8",
     "author": "victor",
     "creators": ["victor, Robsvault"],
-    "verifier": "Robsvault",
+    "verifier": "Robsvault 120",
     "verification": "https://www.youtube.com/watch?v=Zfhb6bdvPgE",
     "percentToQualify": 72,
     "coins": "0",
         "records": [
             {
-                "user": "nickgiarovel",
+                "user": "nickgiarovel 60",
                 "link": "https://www.youtube.com/watch?v=CWozkSp_CWs",
                 "percent": 100,
                 "hz": 60

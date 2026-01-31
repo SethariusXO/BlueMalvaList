@@ -12,25 +12,25 @@
             "user": "ErrorWinters 240",
             "link": "https://www.youtube.com/watch?v=PmrsoL92_S4",
             "percent": 100,
-            "hz": 240
+            "cc": 1
         },
         {
             "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=q-4OpAnzAfY",
             "percent": 100,
-            "hz": 120
+            "cc": 1
         },
             {
                 "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
-                "hz": 240
+                "cc": 0
             },
         {
             "user": "IceOweni 60",
             "link": "https://youtu.be/45WaGAtaamY?si=jpZX9ZgafkK54uOR",
             "percent": 100,
-            "hz": 60,
+            "cc": 0,
             "mobile": true
         }
     ]

@@ -3,50 +3,50 @@
     "name": "Apocolyptic",
     "author": "Myrixen",
     "creators": ["Myrixen"],
-    "verifier": "Yoink",
+    "verifier": "Yoink 240",
     "verification": "https://youtu.be/CsHdAxyLpVg",
     "percentToQualify": "100",
     "coins": "0",
     "records": [
         {
-            "user": "Victor",
+            "user": "Victor 240",
             "link": "https://www.youtube.com/watch?v=bwykS36TWRc",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Robsvault",
+            "user": "Robsvault 120",
             "link": "https://www.youtube.com/watch?v=po6JxJde54Y",
             "percent": 100,
             "hz": 120
         },
         {
-            "user": "DavidShaft",
+            "user": "DavidShaft 240",
             "link": "https://www.youtube.com/watch?v=-vRoZiiZHXs",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "IceOweni",
+            "user": "IceOweni 60",
             "link": "https://youtu.be/bdesQ4my268?si=IZoK2j46wVEMCpZK",
             "percent": 100,
             "hz": 60,
             "mobile": true
         },
             {
-                "user": "TheronDaGreat",
+                "user": "TheronDaGreat 240",
                 "link": "https://youtu.be/0O8Zbuvawvk",
                 "percent": 100,
                 "hz": 240
             },
         {
-            "user": "Krypton",
+            "user": "Krypton 75",
             "link": "https://youtu.be/YWmR-jf0bvA",
             "percent": 100,
             "hz": 75
         },
         {
-            "user": "Krya12",
+            "user": "Krya12 60",
             "link": "https://www.youtube.com/watch?v=FjnMR8wPu6s",
             "percent": 100,
             "hz": 60
